@@ -5,7 +5,7 @@ export const profile = {
   phone: '+1 (716) 907-4253',
   email: 'ukodaru@gmail.com',
   linkedin: 'https://www.linkedin.com/in/uday-kiran-kodaru/',
-  photo: '/profile-uday.jpg',
+  photo: '/Uday-Portfolio/profile-uday.jpg',
   summary:
     'Senior SDET with 7+ years designing, scaling, and executing automated testing across UI, API, backend, and cloud. Expert in Playwright + TypeScript and Java + Selenium, with data-driven validation, CI/CD, and performance/load testing expertise.',
   heroTags: ['Playwright + TypeScript', 'Java + Selenium', 'Karate DSL', 'JMeter & LoadRunner', 'AWS · Azure · Jenkins'],
